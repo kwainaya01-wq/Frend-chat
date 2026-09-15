@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Primary Chat Bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32h36c6.6,0 12,5.4 12,12v16c0,6.6 -5.4,12 -12,12h-8l-10,8v-8h-18c-6.6,0 -12,-5.4 -12,-12v-16c0,-6.6 5.4,-12 12,-12z" />
+    <!-- Friendly Heart / Smile Accent inside bubble -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M50,47.5c-2.5,-2.7 -6.5,-2.7 -9,0 -2.5,2.7 -2.5,7 0,9.7l9,9.3 9,-9.3c2.5,-2.7 2.5,-7 0,-9.7 -2.5,-2.7 -6.5,-2.7 -9,0z" />
+    <!-- Mini sparkling friend star indicator -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M69,42c0,-3.3 2.7,-6 6,-6 -3.3,0 -6,-2.7 -6,-6 0,3.3 -2.7,6 -6,6 3.3,0 6,2.7 6,6z" />
+</vector>

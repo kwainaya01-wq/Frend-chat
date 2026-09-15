@@ -1,0 +1,6 @@
+{
+  "name": "Friend Chat",
+  "description": "Modern social networking and real-time messaging app with voice & video calling, friend discovery, and rich profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
