@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2873396317",
+    "project_id": "friends-chat-aaafd",
+    "storage_bucket": "friends-chat-aaafd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2873396317:android:22279a1a603e24e1dad1b4",
+        "android_client_info": {
+          "package_name": "com.aistudio.friendchat.socnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2873396317-9lp3d4l4u14la025kpvu5liq110m6ahj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJDd_VoP4a10Y9qIWgLFUM8MO6hevaVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2873396317-9lp3d4l4u14la025kpvu5liq110m6ahj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
